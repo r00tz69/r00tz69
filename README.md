@@ -4,7 +4,7 @@
 <h2>Kurulum</h2>
 
 ```console
-git clone https://github.com/r00tz69/r00tz69.git
+git clone [https://github.com/r00tz69/r00tz69.git](https://github.com/r00tz69/r00tz69.git)
 cd r00tz69
 pip3 install -r requirements.txt
 python3 r00tz69.py
